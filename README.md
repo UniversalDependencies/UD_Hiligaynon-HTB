@@ -1,20 +1,20 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD Hiligaynon-HTB is a UD treebank containing sentences manually-annotated from grammar books [PALI Language Texts](https://www.hawaiiopen.org/bookseries/pali-language-texts-philippines/) made available by University of Hawaii Press.
 
 # Introduction
 
-...
+This treebank contains -- sentences from the following references:
+1.  Hiligaynon Reference Grammar (Elmer P. Wolfenden, 1971).
 
 
 # Acknowledgments
 
-...
+The annotations were done by Mary Ann C. Tan.
 
 ## References
 
-* (citation)
+* Wolfended, Elmer P. (1971). Hiligaynon Reference Grammar. University of Hawaii Press. ISBN: 9780824882037.  
 
 
 # Changelog

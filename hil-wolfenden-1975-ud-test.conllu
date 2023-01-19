@@ -1,0 +1,7 @@
+# sent_id = wolfenden
+# text = Gumising ang bata.
+# text_en = The child awoke.
+1	Gumising	gising	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=awakened
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the
+3	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	_

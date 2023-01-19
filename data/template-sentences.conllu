@@ -1,0 +1,2351 @@
+# sent_id = 0003-wolfenden-1975-003
+# text = Mga saging ang ginaisip nya.
+# text_en = He is thinking about bananas.
+1	Mga	_	_	_	_	_	_	_	_
+2	saging	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	ginaisip	_	_	_	_	_	_	_	_
+5	nya	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0004-wolfenden-1975-004
+# text = Si Tatay nagapauli sa balay kada Domingo.
+# text_en = Tatay returns home every Sunday.
+1	Si	_	_	_	_	_	_	_	_
+2	Tatay	_	_	_	_	_	_	_	_
+3	nagapauli	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	balay	_	_	_	_	_	_	_	_
+6	kada	_	_	_	_	_	_	_	_
+7	Domingo	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0005-wolfenden-1975-005
+# text = Makaginansya ak sini mga tres pesos.
+# text_en = I will be able to gain about three pesos from this.
+1	Makaginansya	_	_	_	_	_	_	_	_
+2	ak	_	_	_	_	_	_	_	_
+3	sini	_	_	_	_	_	_	_	_
+4	mga	_	_	_	_	_	_	_	_
+5	tres	_	_	_	_	_	_	_	_
+6	pesos	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0006-wolfenden-1975-006
+# text = Mabakal sing beinte sentimos ang isa ka bilog nga itlog.
+# text_en = One egg costs 20 centavos.
+# text_en = One single egg can be bought twenty centavos.
+1	Mabakal	_	_	_	_	_	_	_	_
+2	sing	_	_	_	_	_	_	_	_
+3	beinte	_	_	_	_	_	_	_	_
+4	sentimos	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	isa	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	bilog	_	_	_	_	_	_	_	_
+9	nga	_	_	_	_	_	_	_	_
+10	itlog	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0007-wolfenden-1975-007
+# text = Diin ang libro.
+# text_en = Where is the book.
+1	Diin	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	libro	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0008-wolfenden-1975-008
+# text = Mga ano ang gusto mo makaon?
+# text_en = What (things) do you want to eat?
+1	Mga	_	_	_	_	_	_	_	_
+2	ano	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	gusto	_	_	_	_	_	_	_	_
+5	mo	_	_	_	_	_	_	_	_
+6	makaon	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0009-wolfenden-1975-009
+# text = Wala dira sila?
+# text_en = Aren't they there?
+1	Wala	_	_	_	_	_	_	_	_
+2	dira	_	_	_	_	_	_	_	_
+3	sila	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0010-wolfenden-1975-010
+# text = May kotse bala ikaw, Rey?
+# text_en = Do you have a car, Rey?
+1	May	_	_	_	_	_	_	_	_
+2	kotse	_	_	_	_	_	_	_	_
+3	bala	_	_	_	_	_	_	_	_
+4	ikaw	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Rey	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0011-wolfenden-1975-011
+# text = Pasalubong ko ini sa imo, Tsip, hambal ni Rey.
+# text_en = "I greet you with this, Chief," said Rey.
+1	Pasalubong	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	ini	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	imo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Tsip	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	hambal	_	_	_	_	_	_	_	_
+10	ni	_	_	_	_	_	_	_	_
+11	Rey	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0012-wolfenden-1975-012
+# text = Sia ang anak ni anhing Pablo Nava.
+# text_en = He is the child of the late Pablo Nava.
+1	Sia	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	anak	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	anhing	_	_	_	_	_	_	_	_
+6	Pablo	_	_	_	_	_	_	_	_
+7	Nava	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0013-wolfenden-1975-013
+# text = Indi ka maluoy sa pagtan-aw kanday Tatay kag Nanay?
+# text_en = Are you not sad at the sight of Tatay and Nanay?
+# text_en = Are you not sad at the sight of Father and Mother?
+1	Indi	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	maluoy	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	pagtan-aw	_	_	_	_	_	_	_	_
+6	kanday	_	_	_	_	_	_	_	_
+7	Tatay	_	_	_	_	_	_	_	_
+8	kag	_	_	_	_	_	_	_	_
+9	Nanay	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0014-wolfenden-1975-014
+# text = Mga alas dyes imedya kami maghalin.
+# text_en = We will return about ten thirty.
+1	Mga	_	_	_	_	_	_	_	_
+2	alas	_	_	_	_	_	_	_	_
+3	dyes	_	_	_	_	_	_	_	_
+4	imedya	_	_	_	_	_	_	_	_
+5	kami	_	_	_	_	_	_	_	_
+6	maghalin	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0015-wolfenden-1975-015
+# text = Napatay ini sa alas nuwebe sa gab-i.
+# text_en = This one died at nine in the evening.
+1	Napatay	_	_	_	_	_	_	_	_
+2	ini	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	alas	_	_	_	_	_	_	_	_
+5	nuwebe	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	gab-i	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0016-wolfenden-1975-016
+# text = Wala pa diyes minutos para alas nuwebe kag nag-abot sia.
+# text_en = It was not yet ten minutes to nine when he arrived.
+1	Wala	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	diyes	_	_	_	_	_	_	_	_
+4	minutos	_	_	_	_	_	_	_	_
+5	para	_	_	_	_	_	_	_	_
+6	alas	_	_	_	_	_	_	_	_
+7	nuwebe	_	_	_	_	_	_	_	_
+8	kag	_	_	_	_	_	_	_	_
+9	nag-abot	_	_	_	_	_	_	_	_
+10	sia	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0017-wolfenden-1975-017
+# text = Barato ang bakal ko sang bayo.
+# text_en = The dress I bought was cheap.
+1	Barato	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	bakal	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	bayo	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0018-wolfenden-1975-018
+# text = Indi dako kaayo ang iya kabudlay sa pagtaklad sa bungyod.
+# text_en = He does not have very great difficulty in climbing the hill.
+1	Indi	_	_	_	_	_	_	_	_
+2	dako	_	_	_	_	_	_	_	_
+3	kaayo	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	iya	_	_	_	_	_	_	_	_
+6	kabudlay	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	pagtaklad	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	bungyod	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0019-wolfenden-1975-019
+# text = Sa tama kadako nga pangaman nagkamang siya.
+# text_en = With very great care he crawled away.
+1	Sa	_	_	_	_	_	_	_	_
+2	tama	_	_	_	_	_	_	_	_
+3	kadako	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	pangaman	_	_	_	_	_	_	_	_
+6	nagkamang	_	_	_	_	_	_	_	_
+7	siya	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0020-wolfenden-1975-020
+# text = Makaginansya ako sini mga tres pesos.
+# text_en = I will be able to gain about three pesos from this.
+1	Makaginansya	_	_	_	_	_	_	_	_
+2	ako	_	_	_	_	_	_	_	_
+3	sini	_	_	_	_	_	_	_	_
+4	mga	_	_	_	_	_	_	_	_
+5	tres	_	_	_	_	_	_	_	_
+6	pesos	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0021-wolfenden-1975-021
+# text = Makabusog ang pansit.
+# text_en = The pansit will fill (the eater).
+# text_en = The pansit is filling.
+1	Makabusog	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	pansit	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0022-wolfenden-1975-022
+# text = Diri ako indi masami nagapahuway.
+# text_en = I do not often rest here.
+1	Diri	_	_	_	_	_	_	_	_
+2	ako	_	_	_	_	_	_	_	_
+3	indi	_	_	_	_	_	_	_	_
+4	masami	_	_	_	_	_	_	_	_
+5	nagapahuway	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0023-wolfenden-1975-023
+# text = Ang tao nga mapatyan dayon sing paglaom walay banihot.
+# text_en = The person who easily loses hope lacks persistence.
+1	Ang	_	_	_	_	_	_	_	_
+2	tao	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	mapatyan	_	_	_	_	_	_	_	_
+5	dayon	_	_	_	_	_	_	_	_
+6	sing	_	_	_	_	_	_	_	_
+7	paglaom	_	_	_	_	_	_	_	_
+8	walay	_	_	_	_	_	_	_	_
+9	banihot	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0024-wolfenden-1975-024
+# text = Makapatindog kita sa aton kaugalingon sa bisan ano nga pagkinahanglanon.
+# text_en = We will depend on ourselves for whatever is needed.
+1	Makapatindog	_	_	_	_	_	_	_	_
+2	kita	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	aton	_	_	_	_	_	_	_	_
+5	kaugalingon	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	bisan	_	_	_	_	_	_	_	_
+8	ano	_	_	_	_	_	_	_	_
+9	nga	_	_	_	_	_	_	_	_
+10	pagkinahanglanon	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0025-wolfenden-1975-025
+# text = Daw subong bala sang ginasuno niya ako bisan diin ako magkadto.
+# text_en = It is as if he is following me wherever I go.
+1	Daw	_	_	_	_	_	_	_	_
+2	subong	_	_	_	_	_	_	_	_
+3	bala	_	_	_	_	_	_	_	_
+4	sang	_	_	_	_	_	_	_	_
+5	ginasuno	_	_	_	_	_	_	_	_
+6	niya	_	_	_	_	_	_	_	_
+7	ako	_	_	_	_	_	_	_	_
+8	bisan	_	_	_	_	_	_	_	_
+9	diin	_	_	_	_	_	_	_	_
+10	ako	_	_	_	_	_	_	_	_
+11	magkadto	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0026-wolfenden-1975-026
+# text = Kon ano ang ginamando niya nagapaganot ang mga ini.
+# text_en = These people ignore whatever he orders.
+1	Kon	_	_	_	_	_	_	_	_
+2	ano	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	ginamando	_	_	_	_	_	_	_	_
+5	niya	_	_	_	_	_	_	_	_
+6	nagapaganot	_	_	_	_	_	_	_	_
+7	ang	_	_	_	_	_	_	_	_
+8	mga	_	_	_	_	_	_	_	_
+9	ini	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0027-wolfenden-1975-027
+# text = Ginapamangkot ni Eddie sa iya kaugalingon kon kagab-ihon.
+# text_en = Eddie questions himself at night.
+1	Ginapamangkot	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	Eddie	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	iya	_	_	_	_	_	_	_	_
+6	kaugalingon	_	_	_	_	_	_	_	_
+7	kon	_	_	_	_	_	_	_	_
+8	kagab-ihon	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0028-wolfenden-1975-028
+# text = Natultulan na niya kon diin ang kusina.
+# text_en = She already understood where the kitchen was.
+1	Natultulan	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	niya	_	_	_	_	_	_	_	_
+4	kon	_	_	_	_	_	_	_	_
+5	diin	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	kusina	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0029-wolfenden-1975-029
+# text = Pila ka oras ang biyahe diri asta sa Baguio.
+# text_en = How many hours is the trip from here to Baguio.
+1	Pila	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	oras	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	biyahe	_	_	_	_	_	_	_	_
+6	diri	_	_	_	_	_	_	_	_
+7	asta	_	_	_	_	_	_	_	_
+8	sa	_	_	_	_	_	_	_	_
+9	Baguio	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0030-wolfenden-1975-030
+# text = Sa apartment ka na magpadayon gikan sa airport.
+# text_en = You will continue to the apartment from the airport.
+1	Sa	_	_	_	_	_	_	_	_
+2	apartment	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	magpadayon	_	_	_	_	_	_	_	_
+6	gikan	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	airport	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0031-wolfenden-1975-031
+# text = Ina nga kuwarta gintago para sa akon pag-eskwela.
+# text_en = That money was kept for my schooling.
+1	Ina	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	kuwarta	_	_	_	_	_	_	_	_
+4	gintago	_	_	_	_	_	_	_	_
+5	para	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	akon	_	_	_	_	_	_	_	_
+8	pag-eskwela	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0032-wolfenden-1975-032
+# text = Dako kaayo ang imo pag-antos tungod sa akon.
+# text_en = You have also sacrificed very much because of me.
+1	Dako	_	_	_	_	_	_	_	_
+2	kaayo	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	imo	_	_	_	_	_	_	_	_
+5	pag-antos	_	_	_	_	_	_	_	_
+6	tungod	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	akon	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0033-wolfenden-1975-033
+# text = ...indi lamang tubtob sa hapon kundi bisan man sa gab-i.
+# text_en = ...not only through the afternoon, but also even at night.
+1	...indi	_	_	_	_	_	_	_	_
+2	lamang	_	_	_	_	_	_	_	_
+3	tubtob	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	hapon	_	_	_	_	_	_	_	_
+6	kundi	_	_	_	_	_	_	_	_
+7	bisan	_	_	_	_	_	_	_	_
+8	man	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	gab-i	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0034-wolfenden-1975-034
+# text = Ini nga estorya halin sang diutay pa ako.
+# text_en = This story is from the time when I was still small.
+1	Ini	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	estorya	_	_	_	_	_	_	_	_
+4	halin	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	diutay	_	_	_	_	_	_	_	_
+7	pa	_	_	_	_	_	_	_	_
+8	ako	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0035-wolfenden-1975-035
+# text = Para kay Clarita, ang paghimo sadto wala sing bale sa iya.
+# text_en = For Clarita, doing that is of no consequence to her.
+1	Para	_	_	_	_	_	_	_	_
+2	kay	_	_	_	_	_	_	_	_
+3	Clarita	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	paghimo	_	_	_	_	_	_	_	_
+7	sadto	_	_	_	_	_	_	_	_
+8	wala	_	_	_	_	_	_	_	_
+9	sing	_	_	_	_	_	_	_	_
+10	bale	_	_	_	_	_	_	_	_
+11	sa	_	_	_	_	_	_	_	_
+12	iya	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0036-wolfenden-1975-036
+# text = Nakabaton sia liwat sing sulat halin kay Rizal.
+# text_en = He received a letter again from Rizal.
+1	Nakabaton	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	liwat	_	_	_	_	_	_	_	_
+4	sing	_	_	_	_	_	_	_	_
+5	sulat	_	_	_	_	_	_	_	_
+6	halin	_	_	_	_	_	_	_	_
+7	kay	_	_	_	_	_	_	_	_
+8	Rizal	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0037-wolfenden-1975-038
+# text = Gintusik sang pispis ang bunga sang bayabas.
+# text_en = The bird pecked the fruit of the guava tree.
+1	Gintusik	_	_	_	_	_	_	_	_
+2	sang	_	_	_	_	_	_	_	_
+3	pispis	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	bunga	_	_	_	_	_	_	_	_
+6	sang	_	_	_	_	_	_	_	_
+7	bayabas	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0038-wolfenden-1975-039
+# text = Gintusik sang pispis ang bunga sang bayabas.
+# text_en = The bird pecked the fruit of the guava tree.
+1	Gintusik	_	_	_	_	_	_	_	_
+2	sang	_	_	_	_	_	_	_	_
+3	pispis	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	bunga	_	_	_	_	_	_	_	_
+6	sang	_	_	_	_	_	_	_	_
+7	bayabas	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0039-wolfenden-1975-040
+# text = Nagpatawag si Bing sang barbero.
+# text_en = Bing had a barber called.
+1	Nagpatawag	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Bing	_	_	_	_	_	_	_	_
+4	sang	_	_	_	_	_	_	_	_
+5	barbero	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0040-wolfenden-1975-041
+# text = Naglampos ako sang kahoy sa man-og.
+# text_en = I struck at the snake with the wood.
+1	Naglampos	_	_	_	_	_	_	_	_
+2	ako	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	kahoy	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	man-og	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0041-wolfenden-1975-042
+# text = Nawala ang tanan nia nga manggad.
+# text_en = All his wealth was lost.
+1	Nawala	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	tanan	_	_	_	_	_	_	_	_
+4	nia	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	manggad	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0042-wolfenden-1975-043
+# text = Natinloan ng sini ang apartment.
+# text_en = The apartment was already cleaned by this one.
+1	Natinloan	_	_	_	_	_	_	_	_
+2	ng	_	_	_	_	_	_	_	_
+3	sini	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	apartment	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0043-wolfenden-1975-044
+# text = Mapasayod sila ni Enrico sang mga tulumanon.
+# text_en = Enrico will explain the responsibilities to them.
+1	Mapasayod	_	_	_	_	_	_	_	_
+2	sila	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	Enrico	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	mga	_	_	_	_	_	_	_	_
+7	tulumanon	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0044-wolfenden-1975-045
+# text = Ining mga bayo naggumon kay ginbayo sang mga ina.
+# text_en = These dresses are scattered because those (people) were dressing.
+1	Ining	_	_	_	_	_	_	_	_
+2	mga	_	_	_	_	_	_	_	_
+3	bayo	_	_	_	_	_	_	_	_
+4	naggumon	_	_	_	_	_	_	_	_
+5	kay	_	_	_	_	_	_	_	_
+6	ginbayo	_	_	_	_	_	_	_	_
+7	sang	_	_	_	_	_	_	_	_
+8	mga	_	_	_	_	_	_	_	_
+9	ina	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0045-wolfenden-1975-046
+# text = Nakadulog gid man ang kotse nanday Loleng.
+# text_en = The car of Loleng and her companions actually stopped.
+1	Nakadulog	_	_	_	_	_	_	_	_
+2	gid	_	_	_	_	_	_	_	_
+3	man	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	kotse	_	_	_	_	_	_	_	_
+6	nanday	_	_	_	_	_	_	_	_
+7	Loleng	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0046-wolfenden-1975-047
+# text = Ginpakamahal niya ang trumpeta ni Turbi sang sa akon.
+# text_en = She valued the trumpet of Turbi more than me.
+1	Ginpakamahal	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	trumpeta	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	Turbi	_	_	_	_	_	_	_	_
+7	sang	_	_	_	_	_	_	_	_
+8	sa	_	_	_	_	_	_	_	_
+9	akon	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0047-wolfenden-1975-048
+# text = Maigpat pa sang sa brilyante ang ugali ni Fe.
+# text_en = More sparkling than a diamond is the character of Fe.
+1	Maigpat	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	brilyante	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	ugali	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	Fe	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0048-wolfenden-1975-049
+# text = Ginsiling niya nga ang pagkampanya karon iban sang sa una.
+# text_en = He said that the present campaign is different than the first one.
+1	Ginsiling	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	pagkampanya	_	_	_	_	_	_	_	_
+6	karon	_	_	_	_	_	_	_	_
+7	iban	_	_	_	_	_	_	_	_
+8	sang	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	una	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0049-wolfenden-1975-050
+# text = Nalipay sila sang mga ginapanghambal ni Juan.
+# text_en = They were gladdened by the things Juan was saying.
+1	Nalipay	_	_	_	_	_	_	_	_
+2	sila	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	mga	_	_	_	_	_	_	_	_
+5	ginapanghambal	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	Juan	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0050-wolfenden-1975-051
+# text = Daw indi ako luyag sang ginasiling mo nga ina, Rosy.
+# text_en = I probably don't like what you are saying, Rosy.
+1	Daw	_	_	_	_	_	_	_	_
+2	indi	_	_	_	_	_	_	_	_
+3	ako	_	_	_	_	_	_	_	_
+4	luyag	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	ginasiling	_	_	_	_	_	_	_	_
+7	mo	_	_	_	_	_	_	_	_
+8	nga	_	_	_	_	_	_	_	_
+9	ina	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Rosy	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0051-wolfenden-1975-052
+# text = Ara ako sa idalom sang magapa nga bayabas.
+# text_en = I was there under the thick guava tree.
+1	Ara	_	_	_	_	_	_	_	_
+2	ako	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	idalom	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	magapa	_	_	_	_	_	_	_	_
+7	nga	_	_	_	_	_	_	_	_
+8	bayabas	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0052-wolfenden-1975-053
+# text = Sa diin kita mangyapon?
+# text_en = Where shall we eat supper?
+1	Sa	_	_	_	_	_	_	_	_
+2	diin	_	_	_	_	_	_	_	_
+3	kita	_	_	_	_	_	_	_	_
+4	mangyapon	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0053-wolfenden-1975-054
+# text = Sa ano makaabot sing madali sa Bruselas?
+# text_en = What's the quickest way to get to Brussels?
+1	Sa	_	_	_	_	_	_	_	_
+2	ano	_	_	_	_	_	_	_	_
+3	makaabot	_	_	_	_	_	_	_	_
+4	sing	_	_	_	_	_	_	_	_
+5	madali	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	Bruselas	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0054-wolfenden-1975-055
+# text = Igadeposito niya ang padya sa bangko sa ila siyudad.
+# text_en = He will deposit the reward in a bank in their city.
+1	Igadeposito	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	padya	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	bangko	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	ila	_	_	_	_	_	_	_	_
+9	siyudad	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0055-wolfenden-1975-056
+# text = Sa imo na ina.
+# text_en = That is yours.
+1	Sa	_	_	_	_	_	_	_	_
+2	imo	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ina	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0056-wolfenden-1975-057
+# text = Bumagting ang alas sais sa gab-i.
+# text_en = Six in the evening struck.
+1	Bumagting	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	alas	_	_	_	_	_	_	_	_
+4	sais	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	gab-i	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0057-wolfenden-1975-058
+# text = Ina ang akon ginpangako sa abugado.
+# text_en = That is what I promised the lawyer.
+1	Ina	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	akon	_	_	_	_	_	_	_	_
+4	ginpangako	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	abugado	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0058-wolfenden-1975-059
+# text = Ginkimpit nia sa akon ilong ang kamot nia.
+# text_en = He pinched my nose with his hand.
+1	Ginkimpit	_	_	_	_	_	_	_	_
+2	nia	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	akon	_	_	_	_	_	_	_	_
+5	ilong	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	kamot	_	_	_	_	_	_	_	_
+8	nia	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0059-wolfenden-1975-060
+# text = Indi ka bala maluoy sa pagtan-aw kanday Tatay kag Nanay nga wala sing kalipay?
+# text_en = Will you not be sorrowful seeing Father and Mother without happiness?
+1	Indi	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	bala	_	_	_	_	_	_	_	_
+4	maluoy	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	pagtan-aw	_	_	_	_	_	_	_	_
+7	kanday	_	_	_	_	_	_	_	_
+8	Tatay	_	_	_	_	_	_	_	_
+9	kag	_	_	_	_	_	_	_	_
+10	Nanay	_	_	_	_	_	_	_	_
+11	nga	_	_	_	_	_	_	_	_
+12	wala	_	_	_	_	_	_	_	_
+13	sing	_	_	_	_	_	_	_	_
+14	kalipay	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0060-wolfenden-1975-061
+# text = Nakilala ko na bisan sa madulom pa ang akon mga mata.
+# text_en = I already knew (it), though my eyes were still not be able to see well.
+1	Nakilala	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	bisan	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	madulom	_	_	_	_	_	_	_	_
+7	pa	_	_	_	_	_	_	_	_
+8	ang	_	_	_	_	_	_	_	_
+9	akon	_	_	_	_	_	_	_	_
+10	mga	_	_	_	_	_	_	_	_
+11	mata	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0061-wolfenden-1975-062
+# text = Sa may maayo nga irigasyon 165 ka pasong ang kina-andan nga patubas.
+# text_en = With good irrigation the normal production is 165 cavans.
+1	Sa	_	_	_	_	_	_	_	_
+2	may	_	_	_	_	_	_	_	_
+3	maayo	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	irigasyon	_	_	_	_	_	_	_	_
+6	165	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	pasong	_	_	_	_	_	_	_	_
+9	ang	_	_	_	_	_	_	_	_
+10	kina-andan	_	_	_	_	_	_	_	_
+11	nga	_	_	_	_	_	_	_	_
+12	patubas	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0062-wolfenden-1975-063
+# text = Among boto sa kay Marcos namon ihatag.
+# text_en = We will cast our vote for Marcos.
+1	Among	_	_	_	_	_	_	_	_
+2	boto	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	kay	_	_	_	_	_	_	_	_
+5	Marcos	_	_	_	_	_	_	_	_
+6	namon	_	_	_	_	_	_	_	_
+7	ihatag	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0063-wolfenden-1975-064
+# text = Ang pihak nga aritos amo ang nakapadakop sa kriminal, sa kay Eulalia Castro.
+# text_en = The earring was his clue for catching the crimininal, Eulalia Castro.
+1	Ang	_	_	_	_	_	_	_	_
+2	pihak	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	aritos	_	_	_	_	_	_	_	_
+5	amo	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	nakapadakop	_	_	_	_	_	_	_	_
+8	sa	_	_	_	_	_	_	_	_
+9	kriminal	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	sa	_	_	_	_	_	_	_	_
+12	kay	_	_	_	_	_	_	_	_
+13	Eulalia	_	_	_	_	_	_	_	_
+14	Castro	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0064-wolfenden-1975-065
+# text = Ipahamtang mo sa akon ang silot.
+# text_en = You impose the punishment on me.
+1	Ipahamtang	_	_	_	_	_	_	_	_
+2	mo	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	akon	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	silot	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0065-wolfenden-1975-066
+# text = Ano ini diri nga duog?
+# text_en = What place is this here?
+1	Ano	_	_	_	_	_	_	_	_
+2	ini	_	_	_	_	_	_	_	_
+3	diri	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	duog	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0066-wolfenden-1975-067
+# text = Ang mga panguna nga bida sanday Andy Poe kag Pilar Pilapil.
+# text_en = The leading stars are Andy Poe and Pilar Pilapil.
+1	Ang	_	_	_	_	_	_	_	_
+2	mga	_	_	_	_	_	_	_	_
+3	panguna	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	bida	_	_	_	_	_	_	_	_
+6	sanday	_	_	_	_	_	_	_	_
+7	Andy	_	_	_	_	_	_	_	_
+8	Poe	_	_	_	_	_	_	_	_
+9	kag	_	_	_	_	_	_	_	_
+10	Pilar	_	_	_	_	_	_	_	_
+11	Pilapil	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0067-wolfenden-1975-068
+# text = May baligyaan sila sang ila produkto.
+# text_en = They have sales for their products.
+1	May	_	_	_	_	_	_	_	_
+2	baligyaan	_	_	_	_	_	_	_	_
+3	sila	_	_	_	_	_	_	_	_
+4	sang	_	_	_	_	_	_	_	_
+5	ila	_	_	_	_	_	_	_	_
+6	produkto	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0068-wolfenden-1975-069
+# text = Lima ka pasong ang mapiyerde sa kada ektarya.
+# text_en = The destroyed (quantity) in each hectare was five cavans.
+1	Lima	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	pasong	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	mapiyerde	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	kada	_	_	_	_	_	_	_	_
+8	ektarya	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0069-wolfenden-1975-070
+# text = Ang imo bugtong nga babae kag ang sa akon bugtong naman nga lalaki.
+# text_en = Yours is an only daughter and mine is an only son.
+1	Ang	_	_	_	_	_	_	_	_
+2	imo	_	_	_	_	_	_	_	_
+3	bugtong	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	babae	_	_	_	_	_	_	_	_
+6	kag	_	_	_	_	_	_	_	_
+7	ang	_	_	_	_	_	_	_	_
+8	sa	_	_	_	_	_	_	_	_
+9	akon	_	_	_	_	_	_	_	_
+10	bugtong	_	_	_	_	_	_	_	_
+11	naman	_	_	_	_	_	_	_	_
+12	nga	_	_	_	_	_	_	_	_
+13	lalaki	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0070-wolfenden-1975-071
+# text = Diin ang si Imelda?
+# text_en = Where is the one called Imelda?
+1	Diin	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	Imelda	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0071-wolfenden-1975-072
+# text = Sila ang mga magahatag sing kalisod sa imo mga ginikanan.
+# text_en = They are the ones to give sorrow to your parents.
+1	Sila	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	mga	_	_	_	_	_	_	_	_
+4	magahatag	_	_	_	_	_	_	_	_
+5	sing	_	_	_	_	_	_	_	_
+6	kalisod	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	imo	_	_	_	_	_	_	_	_
+9	mga	_	_	_	_	_	_	_	_
+10	ginikanan	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0072-wolfenden-1975-073
+# text = Ang mga nagasulugat sa mga pasahero makita mo sa puertahan.
+# text_en = You will see the welcomers of the passengers at the door.
+1	Ang	_	_	_	_	_	_	_	_
+2	mga	_	_	_	_	_	_	_	_
+3	nagasulugat	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	mga	_	_	_	_	_	_	_	_
+6	pasahero	_	_	_	_	_	_	_	_
+7	makita	_	_	_	_	_	_	_	_
+8	mo	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	puertahan	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0073-wolfenden-1975-074
+# text = Sanday sin-o ang maupod?
+# text_en = Who are the ones who will go along?
+1	Sanday	_	_	_	_	_	_	_	_
+2	sin-o	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	maupod	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0074-wolfenden-1975-075
+# text = Mga alas diesimedya kami nag-abot.
+# text_en = We arrived about 10:30.
+1	Mga	_	_	_	_	_	_	_	_
+2	alas	_	_	_	_	_	_	_	_
+3	diesimedya	_	_	_	_	_	_	_	_
+4	kami	_	_	_	_	_	_	_	_
+5	nag-abot	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0075-wolfenden-1975-076
+# text = Bumagting na ang alas sais sa gab-i.
+# text_en = Six in the evening struck.
+1	Bumagting	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	alas	_	_	_	_	_	_	_	_
+5	sais	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	gab-i	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0076-wolfenden-1975-077
+# text = Mga ikaapat na ang takna sa hapon.
+# text_en = It was about four o'clock in the afternoon.
+1	Mga	_	_	_	_	_	_	_	_
+2	ikaapat	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	takna	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	hapon	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0077-wolfenden-1975-078
+# text = Ang talana sang ila kasal ikan-om ang takna sa aga.
+# text_en = The arrangement for their wedding is 6 in the morning.
+1	Ang	_	_	_	_	_	_	_	_
+2	talana	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	ila	_	_	_	_	_	_	_	_
+5	kasal	_	_	_	_	_	_	_	_
+6	ikan-om	_	_	_	_	_	_	_	_
+7	ang	_	_	_	_	_	_	_	_
+8	takna	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	aga	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0078-wolfenden-1975-095
+# text = Maabtik nga mga till madasig magdalagan.
+# text_en = Swift feet can run fast.
+1	Maabtik	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	mga	_	_	_	_	_	_	_	_
+4	till	_	_	_	_	_	_	_	_
+5	madasig	_	_	_	_	_	_	_	_
+6	magdalagan	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0079-wolfenden-1975-096
+# text = Ang atay nga matam-is nagahulid sa apdo nga mapait.
+# text_en = The sweet liver is situated near the bitter bile.
+1	Ang	_	_	_	_	_	_	_	_
+2	atay	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	matam-is	_	_	_	_	_	_	_	_
+5	nagahulid	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	apdo	_	_	_	_	_	_	_	_
+8	nga	_	_	_	_	_	_	_	_
+9	mapait	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0080-wolfenden-1975-097
+# text = Ina nga mga laragway ang dala namon pauli.
+# text_en = Those pictures are the ones we brought back.
+1	Ina	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	mga	_	_	_	_	_	_	_	_
+4	laragway	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	dala	_	_	_	_	_	_	_	_
+7	namon	_	_	_	_	_	_	_	_
+8	pauli	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0081-wolfenden-1975-098
+# text = Kalimtan mo ang lalaki nga ina.
+# text_en = You forget that man!
+1	Kalimtan	_	_	_	_	_	_	_	_
+2	mo	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	lalaki	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	ina	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0082-wolfenden-1975-099
+# text = Ako si Alex nga kahagugma niya.
+# text_en = I am Alex, her suitor.
+1	Ako	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Alex	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	kahagugma	_	_	_	_	_	_	_	_
+6	niya	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0083-wolfenden-1975-100
+# text = Ang madre nga nagtawag kaina nagtawag liwat.
+# text_en = The nun who called earlier called again.
+1	Ang	_	_	_	_	_	_	_	_
+2	madre	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	nagtawag	_	_	_	_	_	_	_	_
+5	kaina	_	_	_	_	_	_	_	_
+6	nagtawag	_	_	_	_	_	_	_	_
+7	liwat	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0084-wolfenden-1975-101
+# text = May tao sa guwa sang ganhaan.
+# text_en = There is someone outside the door.
+1	May	_	_	_	_	_	_	_	_
+2	tao	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	guwa	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	ganhaan	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0085-wolfenden-1975-102
+# text = Nabukas ang ganhaan sang eroplano.
+# text_en = The door of the airplane opened.
+1	Nabukas	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	ganhaan	_	_	_	_	_	_	_	_
+4	sang	_	_	_	_	_	_	_	_
+5	eroplano	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0086-wolfenden-1975-103
+# text = Gintulok sia sang mga tao sa dalan.
+# text_en = He was seen by the men on the road.
+# text_en = He was stared at by the men on the road.
+1	Gintulok	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	mga	_	_	_	_	_	_	_	_
+5	tao	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	dalan	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0087-wolfenden-1975-104
+# text = Ang bapor nag-abot sang alas dies sa aga.
+# text_en = The ship arrived about ten in the morning.
+1	Ang	_	_	_	_	_	_	_	_
+2	bapor	_	_	_	_	_	_	_	_
+3	nag-abot	_	_	_	_	_	_	_	_
+4	sang	_	_	_	_	_	_	_	_
+5	alas	_	_	_	_	_	_	_	_
+6	dies	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	aga	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0088-wolfenden-1975-105
+# text = Wala gid sing balita kay Betina.
+# text_en = There was really no news of Betina.
+1	Wala	_	_	_	_	_	_	_	_
+2	gid	_	_	_	_	_	_	_	_
+3	sing	_	_	_	_	_	_	_	_
+4	balita	_	_	_	_	_	_	_	_
+5	kay	_	_	_	_	_	_	_	_
+6	Betina	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0089-wolfenden-1975-106
+# text = Ginasunod sila sang iya amay kag utod.
+# text_en = They are being followed by her father and brother.
+# text_en = They are being followed by her father and sibling.
+1	Ginasunod	_	_	_	_	_	_	_	_
+2	sila	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	iya	_	_	_	_	_	_	_	_
+5	amay	_	_	_	_	_	_	_	_
+6	kag	_	_	_	_	_	_	_	_
+7	utod	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0090-wolfenden-1975-107
+# text = Tabangan naton ang iban nga mga tao, ang ila nga asawa, bana, ukon bata.
+# text_en = We will help other people, their wives, husbands, or children.
+1	Tabangan	_	_	_	_	_	_	_	_
+2	naton	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	iban	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	mga	_	_	_	_	_	_	_	_
+7	tao	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ang	_	_	_	_	_	_	_	_
+10	ila	_	_	_	_	_	_	_	_
+11	nga	_	_	_	_	_	_	_	_
+12	asawa	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	bana	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	ukon	_	_	_	_	_	_	_	_
+17	bata	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0091-wolfenden-1975-108
+# text = Pangabay niya si Rizal nga pasayuron sia kon kasan-o kag kon paano ang pag-usisa.
+# text_en = He requested Rizal to inform him of the when and how of the investigation.
+1	Pangabay	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	Rizal	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	pasayuron	_	_	_	_	_	_	_	_
+7	sia	_	_	_	_	_	_	_	_
+8	kon	_	_	_	_	_	_	_	_
+9	kasan-o	_	_	_	_	_	_	_	_
+10	kag	_	_	_	_	_	_	_	_
+11	kon	_	_	_	_	_	_	_	_
+12	paano	_	_	_	_	_	_	_	_
+13	ang	_	_	_	_	_	_	_	_
+14	pag-usisa	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0092-wolfenden-1975-109
+# text = Wala pa mag-abot ang bulan sang Abril kag ang adlaw sang ila kasal.
+# text_en = The month of April and the day of their wedding has not yet come.
+1	Wala	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	mag-abot	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	bulan	_	_	_	_	_	_	_	_
+6	sang	_	_	_	_	_	_	_	_
+7	Abril	_	_	_	_	_	_	_	_
+8	kag	_	_	_	_	_	_	_	_
+9	ang	_	_	_	_	_	_	_	_
+10	adlaw	_	_	_	_	_	_	_	_
+11	sang	_	_	_	_	_	_	_	_
+12	ila	_	_	_	_	_	_	_	_
+13	kasal	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0093-wolfenden-1975-110
+# text = Naghambal sia sa tanhaga niya nga baston.
+# text_en = He spoke to his miracle cane.
+1	Naghambal	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	tanhaga	_	_	_	_	_	_	_	_
+5	niya	_	_	_	_	_	_	_	_
+6	nga	_	_	_	_	_	_	_	_
+7	baston	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0094-wolfenden-1975-111
+# text = Yara ang utod kag amay sang babae.
+# text_en = There is the brother and father of the woman.
+# text_en = There is the sibling and father of the woman.
+1	Yara	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	utod	_	_	_	_	_	_	_	_
+4	kag	_	_	_	_	_	_	_	_
+5	amay	_	_	_	_	_	_	_	_
+6	sang	_	_	_	_	_	_	_	_
+7	babae	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0095-wolfenden-1975-112
+# text = Indi lahog-lahog nga kapalaran ang mangin-asawa sang hari sang mga mina sang brilyante.
+# text_en = It is rare fortune to marry a king of diamond mines.
+1	Indi	_	_	_	_	_	_	_	_
+2	lahog-lahog	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	kapalaran	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	mangin-asawa	_	_	_	_	_	_	_	_
+7	sang	_	_	_	_	_	_	_	_
+8	hari	_	_	_	_	_	_	_	_
+9	sang	_	_	_	_	_	_	_	_
+10	mga	_	_	_	_	_	_	_	_
+11	mina	_	_	_	_	_	_	_	_
+12	sang	_	_	_	_	_	_	_	_
+13	brilyante	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0096-wolfenden-1975-113
+# text = Ipakita naton nga kita nga mga Bisaya, indi man ignorante.
+# text_en = Let's show that we Visayans are not backward either.
+1	Ipakita	_	_	_	_	_	_	_	_
+2	naton	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	kita	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	mga	_	_	_	_	_	_	_	_
+7	Bisaya	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	indi	_	_	_	_	_	_	_	_
+10	man	_	_	_	_	_	_	_	_
+11	ignorante	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0097-wolfenden-1975-114
+# text = Wala ako sing labot sa inyo nga duha.
+# text_en = I'm not involved with you two.
+1	Wala	_	_	_	_	_	_	_	_
+2	ako	_	_	_	_	_	_	_	_
+3	sing	_	_	_	_	_	_	_	_
+4	labot	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	inyo	_	_	_	_	_	_	_	_
+7	nga	_	_	_	_	_	_	_	_
+8	duha	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0098-wolfenden-1975-115
+# text = Nagkinadlaw sila nga tatlo.
+# text_en = They three laughed.
+1	Nagkinadlaw	_	_	_	_	_	_	_	_
+2	sila	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	tatlo	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0099-wolfenden-1975-116
+# text = Kaslon na kami ni Baron Bernal.
+# text_en = We, Baron Bernal and I, will be married.
+1	Kaslon	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	kami	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	Baron	_	_	_	_	_	_	_	_
+6	Bernal	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0100-wolfenden-1975-117
+# text = May ginkaisahan sila ni Clarita.
+# text_en = They, he and Clarita, had an agreement.
+1	May	_	_	_	_	_	_	_	_
+2	ginkaisahan	_	_	_	_	_	_	_	_
+3	sila	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	Clarita	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0101-wolfenden-1975-118
+# text = Nagbagyo sing mabaskog sadto nga adlaw.
+# text_en = It stormed fiercely that day.
+1	Nagbagyo	_	_	_	_	_	_	_	_
+2	sing	_	_	_	_	_	_	_	_
+3	mabaskog	_	_	_	_	_	_	_	_
+4	sadto	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	adlaw	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0102-wolfenden-1975-119
+# text = Handa sia nga maglakat bisan ano nga duog.
+# text_en = He is prepared to go anywhere.
+1	Handa	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	maglakat	_	_	_	_	_	_	_	_
+5	bisan	_	_	_	_	_	_	_	_
+6	ano	_	_	_	_	_	_	_	_
+7	nga	_	_	_	_	_	_	_	_
+8	duog	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0103-wolfenden-1975-120
+# text = Suluguon sia lang sadto sang iya napangasawa karon.
+# text_en = He was jst a servant of that one to whom he was now married.
+1	Suluguon	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	lang	_	_	_	_	_	_	_	_
+4	sadto	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	iya	_	_	_	_	_	_	_	_
+7	napangasawa	_	_	_	_	_	_	_	_
+8	karon	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0104-wolfenden-1975-121
+# text = Lalaki nga amo gid ang ginahandom ko nga ibun-ag sadto sang napatay ko nga asawa.
+# text_en = I really wanted a boy to be born from that (womb) of my deceased wife.
+1	Lalaki	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	amo	_	_	_	_	_	_	_	_
+4	gid	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	ginahandom	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	nga	_	_	_	_	_	_	_	_
+9	ibun-ag	_	_	_	_	_	_	_	_
+10	sadto	_	_	_	_	_	_	_	_
+11	sang	_	_	_	_	_	_	_	_
+12	napatay	_	_	_	_	_	_	_	_
+13	ko	_	_	_	_	_	_	_	_
+14	nga	_	_	_	_	_	_	_	_
+15	asawa	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0105-wolfenden-1975-122
+# text = Ang akon paglaom yara sa anak ko.
+# text_en = My hope is there in my son.
+1	Ang	_	_	_	_	_	_	_	_
+2	akon	_	_	_	_	_	_	_	_
+3	paglaom	_	_	_	_	_	_	_	_
+4	yara	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	anak	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0106-wolfenden-1975-123
+# text = Napatay si Enrique didto sa bukid.
+# text_en = Enrique died there in the field.
+1	Napatay	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Enrique	_	_	_	_	_	_	_	_
+4	didto	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	bukid	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0107-wolfenden-1975-124
+# text = Kay sin-o nga babae sia kaslon?
+# text_en = Who which woman will he be married?
+1	Kay	_	_	_	_	_	_	_	_
+2	sin-o	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	babae	_	_	_	_	_	_	_	_
+5	sia	_	_	_	_	_	_	_	_
+6	kaslon	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0108-wolfenden-1975-125
+# text = Ginhimo mo ang ano nga balay, Angel?
+# text_en = You made which house, Angel?
+1	Ginhimo	_	_	_	_	_	_	_	_
+2	mo	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	ano	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	balay	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Angel	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0109-wolfenden-1975-126
+# text = Indi ko ikatugot nga magpadayon ang malin nimo nga buko.
+# text_en = Your different plan I will not permit to continue.
+1	Indi	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	ikatugot	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	magpadayon	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	malin	_	_	_	_	_	_	_	_
+8	nimo	_	_	_	_	_	_	_	_
+9	nga	_	_	_	_	_	_	_	_
+10	buko	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0110-wolfenden-1975-127
+# text = Ginpang-ako ko sa imo nga himulatan ko ini nga mapamatud-an.
+# text_en = I promise you that I will truly try this.
+1	Ginpang-ako	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	imo	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	himulatan	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	ini	_	_	_	_	_	_	_	_
+9	nga	_	_	_	_	_	_	_	_
+10	mapamatud-an	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0111-wolfenden-1975-128
+# text = Himua ini sing madali.
+# text_en = Do this quickly!
+1	Himua	_	_	_	_	_	_	_	_
+2	ini	_	_	_	_	_	_	_	_
+3	sing	_	_	_	_	_	_	_	_
+4	madali	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0112-wolfenden-1975-129
+# text = Luyag ko makahibalo sing pat-od nahanungod sa akon maleta.
+# text_en = I want to know for certain about my suitcase.
+1	Luyag	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	makahibalo	_	_	_	_	_	_	_	_
+4	sing	_	_	_	_	_	_	_	_
+5	pat-od	_	_	_	_	_	_	_	_
+6	nahanungod	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	akon	_	_	_	_	_	_	_	_
+9	maleta	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0113-wolfenden-1975-130
+# text = Sulusinggitan kag buyayawon sia.
+# text_en = He was shouted at and cursed.
+1	Sulusinggitan	_	_	_	_	_	_	_	_
+2	kag	_	_	_	_	_	_	_	_
+3	buyayawon	_	_	_	_	_	_	_	_
+4	sia	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0114-wolfenden-1975-131
+# text = Tinurisek niya ini gilayon kag buyayawon.
+# text_en = She immediately pointed her finger at him and cursed.
+1	Tinurisek	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	ini	_	_	_	_	_	_	_	_
+4	gilayon	_	_	_	_	_	_	_	_
+5	kag	_	_	_	_	_	_	_	_
+6	buyayawon	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0115-wolfenden-1975-132
+# text = Gintusik kag gintusik sang pispis ang kapayas.
+# text_en = The bird pecked and pecked the papaya.
+1	Gintusik	_	_	_	_	_	_	_	_
+2	kag	_	_	_	_	_	_	_	_
+3	gintusik	_	_	_	_	_	_	_	_
+4	sang	_	_	_	_	_	_	_	_
+5	pispis	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	kapayas	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0116-wolfenden-1975-133
+# text = Pinadayon nila nga ginakaon kag ginakaon ang ila mga tanom.
+# text_en = They continued eating and eating their plant.
+1	Pinadayon	_	_	_	_	_	_	_	_
+2	nila	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	ginakaon	_	_	_	_	_	_	_	_
+5	kag	_	_	_	_	_	_	_	_
+6	ginakaon	_	_	_	_	_	_	_	_
+7	ang	_	_	_	_	_	_	_	_
+8	ila	_	_	_	_	_	_	_	_
+9	mga	_	_	_	_	_	_	_	_
+10	tanom	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0117-wolfenden-1975-134
+# text = Wala gid ako makabati ukon makamutik nga may nobyo si Manang.
+# text_en = I really have neither heard nor noticed that Manang had a suitor.
+1	Wala	_	_	_	_	_	_	_	_
+2	gid	_	_	_	_	_	_	_	_
+3	ako	_	_	_	_	_	_	_	_
+4	makabati	_	_	_	_	_	_	_	_
+5	ukon	_	_	_	_	_	_	_	_
+6	makamutik	_	_	_	_	_	_	_	_
+7	nga	_	_	_	_	_	_	_	_
+8	may	_	_	_	_	_	_	_	_
+9	nobyo	_	_	_	_	_	_	_	_
+10	si	_	_	_	_	_	_	_	_
+11	Manang	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0117-wolfenden-1975-134
+# text = Wala gid ako makabati ukon makamutik nga may nobyo si Manang.
+# text_en = I really have neither heard nor noticed that Manang had a boyfriend.
+1	Wala	_	_	_	_	_	_	_	_
+2	gid	_	_	_	_	_	_	_	_
+3	ako	_	_	_	_	_	_	_	_
+4	makabati	_	_	_	_	_	_	_	_
+5	ukon	_	_	_	_	_	_	_	_
+6	makamutik	_	_	_	_	_	_	_	_
+7	nga	_	_	_	_	_	_	_	_
+8	may	_	_	_	_	_	_	_	_
+9	nobyo	_	_	_	_	_	_	_	_
+10	si	_	_	_	_	_	_	_	_
+11	Manang	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0118-wolfenden-1975-135
+# text = Luyag niya pat-odon kon sia nagadamgo ukon nagasalimuang.
+# text_en = She wants to be certain whether she is dreaming or delirious.
+1	Luyag	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	pat-odon	_	_	_	_	_	_	_	_
+4	kon	_	_	_	_	_	_	_	_
+5	sia	_	_	_	_	_	_	_	_
+6	nagadamgo	_	_	_	_	_	_	_	_
+7	ukon	_	_	_	_	_	_	_	_
+8	nagasalimuang	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0119-wolfenden-1975-136
+# text = Bayuhon ko sang hal-o ang humay.
+# text_en = The rice is what I will pound with the pestle.
+1	Bayuhon	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	hal-o	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	humay	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0120-wolfenden-1975-138
+# text = Karon lang ako makakita sang matahom nga nawong.
+# text_en = Just now I see the beautiful face.
+# text_en = Just now I see a beautiful face.
+1	Karon	_	_	_	_	_	_	_	_
+2	lang	_	_	_	_	_	_	_	_
+3	ako	_	_	_	_	_	_	_	_
+4	makakita	_	_	_	_	_	_	_	_
+5	sang	_	_	_	_	_	_	_	_
+6	matahom	_	_	_	_	_	_	_	_
+7	nga	_	_	_	_	_	_	_	_
+8	nawong	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0121-wolfenden-1975-139
+# text = Malum-ok nga kamot nagatongtong sa iya abaga.
+# text_en = A soft hand is touching his shoulder.
+# text_en = A soft hand is on his shoulder.
+1	Malum-ok	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	kamot	_	_	_	_	_	_	_	_
+4	nagatongtong	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	iya	_	_	_	_	_	_	_	_
+7	abaga	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0122-wolfenden-1975-140
+# text = Maligdong kag maanyag pa ang umagad nila.
+# text_en = The daughter-in-law is still modest and beautiful.
+1	Maligdong	_	_	_	_	_	_	_	_
+2	kag	_	_	_	_	_	_	_	_
+3	maanyag	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	umagad	_	_	_	_	_	_	_	_
+7	nila	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0123-wolfenden-1975-141
+# text = Maambong, manggarannon kag maalam si Baron.
+# text_en = Baron is handsome, rich, and intelligent.
+1	Maambong	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	manggarannon	_	_	_	_	_	_	_	_
+4	kag	_	_	_	_	_	_	_	_
+5	maalam	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	Baron	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0124-wolfenden-1975-142
+# text = Mahapos ukon madali pa gid magbakal kita sang bomba.
+# text_en = It is still really easy or quick for us to buy a pump.
+1	Mahapos	_	_	_	_	_	_	_	_
+2	ukon	_	_	_	_	_	_	_	_
+3	madali	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	gid	_	_	_	_	_	_	_	_
+6	magbakal	_	_	_	_	_	_	_	_
+7	kita	_	_	_	_	_	_	_	_
+8	sang	_	_	_	_	_	_	_	_
+9	bomba	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0125-wolfenden-1975-143
+# text = Duha ka balatian ang gidala ni Enrico.
+# text_en = Enrico had brought two diseases (with him).
+1	Duha	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	balatian	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	gidala	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	Enrico	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0126-wolfenden-1975-144
+# text = Lumigad ang pila ka adlaw.
+# text_en = A few days passed.
+1	Lumigad	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	pila	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	adlaw	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0127-wolfenden-1975-145
+# text = Isa ka gatos ka pisos ang iya padya.
+# text_en = His reward was one hundred pesos.
+1	Isa	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	gatos	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	pisos	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	iya	_	_	_	_	_	_	_	_
+8	padya	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0128-wolfenden-1975-146
+# text = Malapit sa duha ka libo ka pisos ang iya nabaton.
+# text_en = She received almost two thousand pesos.
+1	Malapit	_	_	_	_	_	_	_	_
+2	sa	_	_	_	_	_	_	_	_
+3	duha	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	libo	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	pisos	_	_	_	_	_	_	_	_
+8	ang	_	_	_	_	_	_	_	_
+9	iya	_	_	_	_	_	_	_	_
+10	nabaton	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0129-wolfenden-1975-147
+# text = Makuha niya ang iya padya nga isa ka gatos ka libo ka pisos.
+# text_en = He will get his reward of one hundred thousand pesos.
+1	Makuha	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	iya	_	_	_	_	_	_	_	_
+5	padya	_	_	_	_	_	_	_	_
+6	nga	_	_	_	_	_	_	_	_
+7	isa	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	gatos	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	libo	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	pisos	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0130-wolfenden-1975-148
+# text = Duha ka pulo ka libo ka pisos ang bili sang hiniro.
+# text_en = The cloth costs 20,000 pesos.
+1	Duha	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	pulo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	libo	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	pisos	_	_	_	_	_	_	_	_
+8	ang	_	_	_	_	_	_	_	_
+9	bili	_	_	_	_	_	_	_	_
+10	sang	_	_	_	_	_	_	_	_
+11	hiniro	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0130-wolfenden-1975-148
+# text = Duha ka pulo ka libo ka pisos ang bili sang hiniro.
+# text_en = The cloth costs twenty thousand pesos.
+1	Duha	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	pulo	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	libo	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	pisos	_	_	_	_	_	_	_	_
+8	ang	_	_	_	_	_	_	_	_
+9	bili	_	_	_	_	_	_	_	_
+10	sang	_	_	_	_	_	_	_	_
+11	hiniro	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0131-wolfenden-1975-149
+# text = Ang edad niya duha ka pulo kag walo.
+# text_en = His age is 28.
+1	Ang	_	_	_	_	_	_	_	_
+2	edad	_	_	_	_	_	_	_	_
+3	niya	_	_	_	_	_	_	_	_
+4	duha	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	pulo	_	_	_	_	_	_	_	_
+7	kag	_	_	_	_	_	_	_	_
+8	walo	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0132-wolfenden-1975-150
+# text = Isa ka gatos kag kap-atan kag tatlo ang tanan nga isda.
+# text_en = There were 143 fish in all.
+# text_en = There were one hundred forty-three fish in all.
+1	Isa	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	gatos	_	_	_	_	_	_	_	_
+4	kag	_	_	_	_	_	_	_	_
+5	kap-atan	_	_	_	_	_	_	_	_
+6	kag	_	_	_	_	_	_	_	_
+7	tatlo	_	_	_	_	_	_	_	_
+8	ang	_	_	_	_	_	_	_	_
+9	tanan	_	_	_	_	_	_	_	_
+10	nga	_	_	_	_	_	_	_	_
+11	isda	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0133-wolfenden-1975-151
+# text = Ang nahalitan sang peste ang duha ka pulo ka libo kag siyam ka ektaryas.
+# text_en = 20,009 hectares were damaged by the pests.
+# text_en = Twenty thousand and nine hectares were damaged by the pests.
+1	Ang	_	_	_	_	_	_	_	_
+2	nahalitan	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	peste	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	duha	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	pulo	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	libo	_	_	_	_	_	_	_	_
+11	kag	_	_	_	_	_	_	_	_
+12	siyam	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	ektaryas	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0134-wolfenden-1975-152
+# text = Hatagan niya ang isla sing kalim-an ka libo kag anom ka gatos ka binhi sang karpa.
+# text_en = He will give 50,000 fingerlings of carp to the island (inhabitants).
+# text_en = He will give fifty thousand fingerlings of carp to the island (inhabitants).
+1	Hatagan	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	isla	_	_	_	_	_	_	_	_
+5	sing	_	_	_	_	_	_	_	_
+6	kalim-an	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	libo	_	_	_	_	_	_	_	_
+9	kag	_	_	_	_	_	_	_	_
+10	anom	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	gatos	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	binhi	_	_	_	_	_	_	_	_
+15	sang	_	_	_	_	_	_	_	_
+16	karpa	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0135-wolfenden-1975-153
+# text = Mapulo kag apat sila.
+# text_en = There are fourteen of them.
+1	Mapulo	_	_	_	_	_	_	_	_
+2	kag	_	_	_	_	_	_	_	_
+3	apat	_	_	_	_	_	_	_	_
+4	sila	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0136-wolfenden-1975-154
+# text = Kan-uman kag anom ang apo ko.
+# text_en = My grandchildren are 66 in number.
+1	Kan-uman	_	_	_	_	_	_	_	_
+2	kag	_	_	_	_	_	_	_	_
+3	anom	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	apo	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0136-wolfenden-1975-154
+# text = Kan-uman kag anom ang apo ko.
+# text_en = My grandchildren are sixty-six in number.
+1	Kan-uman	_	_	_	_	_	_	_	_
+2	kag	_	_	_	_	_	_	_	_
+3	anom	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	apo	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0137-wolfenden-1975-155
+# text = Ini nga pamilya may isa ka anak nga dalaga.
+# text_en = Tis family has a daughter.
+1	Ini	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	pamilya	_	_	_	_	_	_	_	_
+4	may	_	_	_	_	_	_	_	_
+5	isa	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	anak	_	_	_	_	_	_	_	_
+8	nga	_	_	_	_	_	_	_	_
+9	dalaga	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0138-wolfenden-1975-156
+# text = Sang mga diesiotso anyos na ako nagpabinturar ako sa Guam.
+# text_en = I went to Guam when I was about eighteen years old.
+1	Sang	_	_	_	_	_	_	_	_
+2	mga	_	_	_	_	_	_	_	_
+3	diesiotso	_	_	_	_	_	_	_	_
+4	anyos	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	ako	_	_	_	_	_	_	_	_
+7	nagpabinturar	_	_	_	_	_	_	_	_
+8	ako	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	Guam	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0139-wolfenden-1975-157
+# text = Singkwentay siete ang akun pensyon.
+# text_en = My pension is fifty-seven.
+1	Singkwentay	_	_	_	_	_	_	_	_
+2	siete	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	akun	_	_	_	_	_	_	_	_
+5	pensyon	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0140-wolfenden-1975-158
+# text = Indi ako matulogan karon nga gab-i.
+# text_en = I can't sleep tonight.
+1	Indi	_	_	_	_	_	_	_	_
+2	ako	_	_	_	_	_	_	_	_
+3	matulogan	_	_	_	_	_	_	_	_
+4	karon	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	gab-i	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0141-wolfenden-1975-159
+# text = Buas nga daan duawon ko ikaw.
+# text_en = First thing tomorrow I'll visit you.
+1	Buas	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	daan	_	_	_	_	_	_	_	_
+4	duawon	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	ikaw	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0142-wolfenden-1975-160
+# text = Nakita sia sang mga alas kwatro kaina sang kaagahon.
+# text_en = She was seen about four this morning.
+1	Nakita	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	mga	_	_	_	_	_	_	_	_
+5	alas	_	_	_	_	_	_	_	_
+6	kwatro	_	_	_	_	_	_	_	_
+7	kaina	_	_	_	_	_	_	_	_
+8	sang	_	_	_	_	_	_	_	_
+9	kaagahon	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0143-wolfenden-1975-161
+# text = Matawhay ang ila opisina sulod na karon sang mga isa ka simana.
+# text_en = Their office has been quiet now for the past week.
+# text_en = Their office has been calm now for the past week.
+1	Matawhay	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	ila	_	_	_	_	_	_	_	_
+4	opisina	_	_	_	_	_	_	_	_
+5	sulod	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	karon	_	_	_	_	_	_	_	_
+8	sang	_	_	_	_	_	_	_	_
+9	mga	_	_	_	_	_	_	_	_
+10	isa	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	simana	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0144-wolfenden-1975-162
+# text = Lubiran ko si Jose karon sa hapon.
+# text_en = I will twine (abaca) for Jose this afternoon.
+# text_en = I will put a leash on Jose this afternoon.
+1	Lubiran	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	Jose	_	_	_	_	_	_	_	_
+5	karon	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	hapon	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0145-wolfenden-1975-163
+# text = Tabu-on mo ako karon sa hapon sa simbahan.
+# text_en = I will meet you this afternoon at the church.Meet me this afternoon at the church.
+1	Tabu-on	_	_	_	_	_	_	_	_
+2	mo	_	_	_	_	_	_	_	_
+3	ako	_	_	_	_	_	_	_	_
+4	karon	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	hapon	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	simbahan	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0148-wolfenden-1975-166
+# text = Makabakasyon pa gid ako sa aton.
+# text_en = I am still really planning to vacation in our town.
+1	Makabakasyon	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	gid	_	_	_	_	_	_	_	_
+4	ako	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	aton	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0149-wolfenden-1975-167
+# text = Wala pa gid ako makabakasyon sa aton.
+# text_en = I still cannot really vacation in our town.
+1	Wala	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	gid	_	_	_	_	_	_	_	_
+4	ako	_	_	_	_	_	_	_	_
+5	makabakasyon	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	aton	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0150-wolfenden-1975-168
+# text = Karon ko lamang makit-an ang matahom nga nawong ni Clarita.
+# text_en = Only now do I see the beautiful face of Clarita.
+1	Karon	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	lamang	_	_	_	_	_	_	_	_
+4	makit-an	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	matahom	_	_	_	_	_	_	_	_
+7	nga	_	_	_	_	_	_	_	_
+8	nawong	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	Clarita	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0151-wolfenden-1975-169
+# text = Napat-od gid sang akon asawa ang akon panam-id.
+# text_en = My wife certainly knows my taste.
+1	Napat-od	_	_	_	_	_	_	_	_
+2	gid	_	_	_	_	_	_	_	_
+3	sang	_	_	_	_	_	_	_	_
+4	akon	_	_	_	_	_	_	_	_
+5	asawa	_	_	_	_	_	_	_	_
+6	ang	_	_	_	_	_	_	_	_
+7	akon	_	_	_	_	_	_	_	_
+8	panam-id	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0152-wolfenden-1975-170
+# text = Ginbuksan niya ang iya maleta.
+# text_en = He opened his suitcase.
+# text_en = She opened his suitcase.
+1	Ginbuksan	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	iya	_	_	_	_	_	_	_	_
+5	maleta	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0153-wolfenden-1975-171
+# text = Bugtong ka nga babae nga ila ginapakaanak.
+# text_en = You are the only girl whom they are adopting.
+1	Bugtong	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	nga	_	_	_	_	_	_	_	_
+4	babae	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	ila	_	_	_	_	_	_	_	_
+7	ginapakaanak	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0154-wolfenden-1975-172
+# text = Makit-an ko ang iya matahom nga nawong.
+# text_en = I see her beautiful face.
+1	Makit-an	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	iya	_	_	_	_	_	_	_	_
+5	matahom	_	_	_	_	_	_	_	_
+6	nga	_	_	_	_	_	_	_	_
+7	nawong	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0155-wolfenden-1975-173
+# text = Nadakop na bala ang kriminal?
+# text_en = Has the criminal been caught already?
+1	Nadakop	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	bala	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	kriminal	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0156-wolfenden-1975-174
+# text = Apang sigi pa gihapon iya pagsido.
+# text_en = But his hiccupping still persisted.
+1	Apang	_	_	_	_	_	_	_	_
+2	sigi	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	gihapon	_	_	_	_	_	_	_	_
+5	iya	_	_	_	_	_	_	_	_
+6	pagsido	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0157-wolfenden-1975-175
+# text = Maayo nga ikaw gid ang maghatag sa iya.
+# text_en = It is really best for you to give it to him.
+1	Maayo	_	_	_	_	_	_	_	_
+2	nga	_	_	_	_	_	_	_	_
+3	ikaw	_	_	_	_	_	_	_	_
+4	gid	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	maghatag	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	iya	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0158-wolfenden-1975-176
+# text = Nakasal na gali kamo ni Sandra sa hukmanan?
+# text_en = You were really married to Sandra in the courtroom?
+1	Nakasal	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	gali	_	_	_	_	_	_	_	_
+4	kamo	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	Sandra	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	hukmanan	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = 0159-wolfenden-1975-177
+# text = Kami lamang ni Bimbo ang ari diri sa apartment.
+# text_en = Only Bimbo and I were here in the apartment.
+1	Kami	_	_	_	_	_	_	_	_
+2	lamang	_	_	_	_	_	_	_	_
+3	ni	_	_	_	_	_	_	_	_
+4	Bimbo	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	ari	_	_	_	_	_	_	_	_
+7	diri	_	_	_	_	_	_	_	_
+8	sa	_	_	_	_	_	_	_	_
+9	apartment	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0160-wolfenden-1975-178
+# text = Maayo pa siguro manaog na anay ako.
+# text_en = It is probably best for me to descent first.
+1	Maayo	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	siguro	_	_	_	_	_	_	_	_
+4	manaog	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	anay	_	_	_	_	_	_	_	_
+7	ako	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0161-wolfenden-1975-179
+# text = Indi anay ako magtulog.
+# text_en = I won't sleep first.
+1	Indi	_	_	_	_	_	_	_	_
+2	anay	_	_	_	_	_	_	_	_
+3	ako	_	_	_	_	_	_	_	_
+4	magtulog	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0162-wolfenden-1975-180
+# text = May baligyaan sila sang ila produkto sa Manila.
+# text_en = They have sales for their product in Manila.
+# text_en = They have a shop for their product in Manila.
+1	May	_	_	_	_	_	_	_	_
+2	baligyaan	_	_	_	_	_	_	_	_
+3	sila	_	_	_	_	_	_	_	_
+4	sang	_	_	_	_	_	_	_	_
+5	ila	_	_	_	_	_	_	_	_
+6	produkto	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	Manila	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0163-wolfenden-1975-181
+# text = Sa guwa lang anay ako manyaga.
+# text_en = I'll just go out and eat breakfast first.
+1	Sa	_	_	_	_	_	_	_	_
+2	guwa	_	_	_	_	_	_	_	_
+3	lang	_	_	_	_	_	_	_	_
+4	anay	_	_	_	_	_	_	_	_
+5	ako	_	_	_	_	_	_	_	_
+6	manyaga	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0163-wolfenden-1975-181
+# text = Sa guwa lang anay ako manyaga.
+# text_en = I'll just go out and eat breakfast.
+1	Sa	_	_	_	_	_	_	_	_
+2	guwa	_	_	_	_	_	_	_	_
+3	lang	_	_	_	_	_	_	_	_
+4	anay	_	_	_	_	_	_	_	_
+5	ako	_	_	_	_	_	_	_	_
+6	manyaga	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0164-wolfenden-1975-182
+# text = Nagapamangkutanon si Eddie sa iya kaugalingon kon kagab-ihon.
+# text_en = Eddie asks himself at night.
+1	Nagapamangkutanon	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Eddie	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	iya	_	_	_	_	_	_	_	_
+6	kaugalingon	_	_	_	_	_	_	_	_
+7	kon	_	_	_	_	_	_	_	_
+8	kagab-ihon	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0165-wolfenden-1975-183
+# text = Sang diutay pa sia masunson nga nagaduaw sia sa klinik.
+# text_en = When he was still small he often visited the clinic.
+1	Sang	_	_	_	_	_	_	_	_
+2	diutay	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	sia	_	_	_	_	_	_	_	_
+5	masunson	_	_	_	_	_	_	_	_
+6	nga	_	_	_	_	_	_	_	_
+7	nagaduaw	_	_	_	_	_	_	_	_
+8	sia	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	klinik	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0166-wolfenden-1975-184
+# text = Magdugay gid man ako sa tiendahan.
+# text_en = I really intend to be awhile at the market also.
+# text_en = I also really intend to be stay awhile at the market.
+1	Magdugay	_	_	_	_	_	_	_	_
+2	gid	_	_	_	_	_	_	_	_
+3	man	_	_	_	_	_	_	_	_
+4	ako	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	tiendahan	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0167-wolfenden-1975-185
+# text = Magdugay ka gid man sa tiendahan.
+# text_en = You also really intend to be awhile at the market also.
+# text_en = You also really intend to be stay awhile at the market.
+1	Magdugay	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	gid	_	_	_	_	_	_	_	_
+4	man	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	tiendahan	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0168-wolfenden-1975-186
+# text = Makuha niya ang iya karbaw sa bukid.
+# text_en = He will take his carabao to the field.
+1	Makuha	_	_	_	_	_	_	_	_
+2	niya	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	iya	_	_	_	_	_	_	_	_
+5	karbaw	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	bukid	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0169-wolfenden-1975-187
+# text = Nag-ulan sa Maynila kaghapon.
+# text_en = It rained in Manila yesterday.
+1	Nag-ulan	_	_	_	_	_	_	_	_
+2	sa	_	_	_	_	_	_	_	_
+3	Maynila	_	_	_	_	_	_	_	_
+4	kaghapon	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0170-wolfenden-1975-188
+# text = Gin-ulanan ang Maynila kaghapon.
+# text_en = It rained at Manila yesterday.
+# text_en = Manila was rained on yesterday.
+1	Gin-ulanan	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	Maynila	_	_	_	_	_	_	_	_
+4	kaghapon	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0171-wolfenden-1975-189
+# text = Maalam si Pedro.
+# text_en = Pedro is intelligent.
+1	Maalam	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Pedro	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0172-wolfenden-1975-190
+# text = Mas maalam si Pedro sa kay Juan.
+# text_en = Pedro is more intelligent than Juan.
+1	Mas	_	_	_	_	_	_	_	_
+2	maalam	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	Pedro	_	_	_	_	_	_	_	_
+5	sa	_	_	_	_	_	_	_	_
+6	kay	_	_	_	_	_	_	_	_
+7	Juan	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0173-wolfenden-1975-191
+# text = Mataas ang anak ni Mr. Reyes.
+# text_en = Mr. Reyes' child is tall.
+1	Mataas	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	anak	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	Mr.	_	_	_	_	_	_	_	_
+6	Reyes	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0174-wolfenden-1975-192
+# text = Mataas ang anak ni Mr. Reyes sa kay Kres.
+# text_en = Mr. Reyes' child is taller than Kres.
+1	Mataas	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	anak	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	Mr.	_	_	_	_	_	_	_	_
+6	Reyes	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	kay	_	_	_	_	_	_	_	_
+9	Kres	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0175-wolfenden-1975-193
+# text = Madamo sang bato sa suba.
+# text_en = There are many stones in the river.
+1	Madamo	_	_	_	_	_	_	_	_
+2	sang	_	_	_	_	_	_	_	_
+3	bato	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	suba	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0176-wolfenden-1975-194
+# text = Damo sang mga utod nga kahoy sa sawmill.
+# text_en = There are many cut trees at the sawmill.
+1	Damo	_	_	_	_	_	_	_	_
+2	sang	_	_	_	_	_	_	_	_
+3	mga	_	_	_	_	_	_	_	_
+4	utod	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	kahoy	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	sawmill	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0177-wolfenden-1975-194
+# text = Damo ang mga utod nga kahoy sa sawmill.
+# text_en = There are many cut trees at the sawmill.
+1	Damo	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	mga	_	_	_	_	_	_	_	_
+4	utod	_	_	_	_	_	_	_	_
+5	nga	_	_	_	_	_	_	_	_
+6	kahoy	_	_	_	_	_	_	_	_
+7	sa	_	_	_	_	_	_	_	_
+8	sawmill	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0178-wolfenden-1975-195
+# text = Katahom sang bulak.
+# text_en = How beautiful is the flower!
+1	Katahom	_	_	_	_	_	_	_	_
+2	sang	_	_	_	_	_	_	_	_
+3	bulak	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0179-wolfenden-1975-196
+# text = Kasadya sa ila nga duha.
+# text_en = How cheerful the two of them were!
+1	Kasadya	_	_	_	_	_	_	_	_
+2	sa	_	_	_	_	_	_	_	_
+3	ila	_	_	_	_	_	_	_	_
+4	nga	_	_	_	_	_	_	_	_
+5	duha	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0180-wolfenden-1975-197
+# text = Kapalatuon sa imo.
+# text_en = How hard you study!
+1	Kapalatuon	_	_	_	_	_	_	_	_
+2	sa	_	_	_	_	_	_	_	_
+3	imo	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0181-wolfenden-1975-198
+# text = Kapalaluto si Nanay.
+# text_en = Mother is fond of cooking.
+1	Kapalaluto	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Nanay	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0182-wolfenden-1975-199
+# text = Mabudlay ang pagluto sa kusina.
+# text_en = Cooking in the kitchen is difficult.
+1	Mabudlay	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	pagluto	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	kusina	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0183-wolfenden-1975-200
+# text = Maambong sing panagway si Bimbo.
+# text_en = Bimbo is handsome of face.
+1	Maambong	_	_	_	_	_	_	_	_
+2	sing	_	_	_	_	_	_	_	_
+3	panagway	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	Bimbo	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0184-wolfenden-1975-201
+# text = Anom ka tuig ang kagulangon ni Noel sa akon.
+# text_en = Noel is older than I by six years.
+1	Anom	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	tuig	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	kagulangon	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	Noel	_	_	_	_	_	_	_	_
+8	sa	_	_	_	_	_	_	_	_
+9	akon	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 0185-wolfenden-1975-202
+# text = Taga-Pilipinas ako.
+# text_en = I am from the Philippines.
+1	Taga-Pilipinas	_	_	_	_	_	_	_	_
+2	ako	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
